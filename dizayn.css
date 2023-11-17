@@ -1,0 +1,101 @@
+body {
+    background-color: grey;
+}
+
+.div1 {
+    color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    margin: 5px auto;
+    padding: 35px 0px;
+    width: 70%;
+    background-color: white;
+}
+
+.div2 {
+    color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    margin: 10px auto;
+    padding: 35px 0px;
+    width: 70%;
+    background-color: white;
+}
+.maindiv {
+    color: grey;
+    border: solid grey 1px;
+    box-sizing: border-box;
+    margin: 20px auto;
+    width: 70%;
+ 
+}
+
+.maindiv1 {
+    display: inline-block;
+    color: grey; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    padding: 35px 0px 0px 0px;
+    width: 55%;
+    background-color: white;
+}
+.maindiv2 {
+    display: inline-block;
+    color: grey; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    float: right;
+    padding: 35px 0px 253px 0px;
+    width: 43%;
+    background-color: white;
+}
+.maindiv3 {
+    color: white; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid grey 1px;
+    box-sizing: border-box;
+    padding: 20px 0px 0px 0px;
+    margin: 35px 10px 15px 10px;
+    background-color: grey;
+}
+.maindiv4 {
+    color: grey;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    margin: 20px 20px 10px 20px;
+    padding: 20px 0px;
+    background-color: white;
+}
+.maindiv5 {
+    color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    margin: 10px 20px 20px 20px;
+    padding: 20px 0px;
+    background-color: white;
+}
+.div3 {
+    color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white 1px;
+    box-sizing: border-box;
+    margin: 5px auto;
+    padding: 35px 0px;
+    width: 70%;
+    background-color: white;
+}
